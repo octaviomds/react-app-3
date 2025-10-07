@@ -5,12 +5,12 @@ function App() {
   return (
     <div className="App">
     <img src={logo} className="App-logo" alt="logo" />
-      <div className="w-10 h-10 bg-gradient-to-br from-green-600 to-green-700 rounded-xl flex items-center justify-center">
+      <div className="w-10 h-10 bg-gradient-to-br from-gray-600 to-gray-700 rounded-xl flex items-center justify-center">
               </div>
-              <h1 className="text-2xl font-bold bg-gradient-to-r from-green-600 to-green-800 bg-clip-text text-transparent">
+              <h1 className="text-2xl font-bold bg-gradient-to-r from-gray-600 to-gray-800 bg-clip-text text-transparent">
                 ECORIDE
               </h1>
-              Demo<span className="text-green-600">App</span>
+              Demo<span className="text-gray-600">App</span>
                 <h2 className="text-3xl md:text-4xl font-bold text-gray-800 text-center">
                   Présentation de EcoRide
                 </h2>

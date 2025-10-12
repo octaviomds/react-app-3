@@ -22,3 +22,17 @@ AUTHENTIFICATIONS/USERS :
 
 TABLE DE DONNEES NOSQL MONGODB:
 <img width="1049" height="1012" alt="Capture d’écran 2025-10-12 à 02 12 40" src="https://github.com/user-attachments/assets/9f690760-ab74-490a-adde-b2dcc9de54dc" />
+
+
+AUTHENTIFICATIONS :
+
+
+
+
+
+![IMG_5192](https://github.com/user-attachments/assets/2396ea30-7933-4924-bca3-5f85bf87864a)
+
+
+
+
+<img width="1017" height="568" alt="IMG_5193" src="https://github.com/user-attachments/assets/9d7e9f96-e79f-4289-9a77-a63ca451029e" />

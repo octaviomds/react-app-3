@@ -36,3 +36,8 @@ AUTHENTIFICATIONS :
 
 
 <img width="1017" height="568" alt="IMG_5193" src="https://github.com/user-attachments/assets/9d7e9f96-e79f-4289-9a77-a63ca451029e" />
+
+exemple de pages:
+
+![Image 09-11-2025 à 10 41](https://github.com/user-attachments/assets/c32fbeb8-06ff-42e3-ba84-40fc195ac6b2)
+![Image 09-11-2025 à 10 18](https://github.com/user-attachments/assets/0884f1a4-9501-4294-8d2e-5a8bd0fade41)
